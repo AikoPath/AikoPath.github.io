@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Software engineer, Consultant, Keynote speaker.
