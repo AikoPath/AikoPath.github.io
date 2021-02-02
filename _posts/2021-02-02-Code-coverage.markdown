@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Code Coverage - The metric that can make your tests worse"
-date:   21-02-02 00:00:00 +0800
 permalink: /code_coverage/
 categories: code_coverage test
 ---
