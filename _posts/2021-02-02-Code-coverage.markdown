@@ -2,9 +2,8 @@
 layout: post
 title:  "Code Coverage - The metric that can make your tests worse"
 permalink: /code_coverage/
-categories: code_coverage test
+tags: code_coverage test
 ---
-(originally published [here](https://medium.com/@AikoPath/code-coverage-the-metric-that-makes-your-tests-worse-c1dddcc0831) on Dec 1, 2018)
 
 There are a lot of issues with code coverage: Eloquently summed up by Stackoverflow.com user [Mark Simpson](https://stackoverflow.com/questions/695811/pitfalls-of-code-coverage/695888#695888):
 
@@ -111,3 +110,4 @@ The important part is that the threshold is not static!
 
 I try to keep the threshold as close as possible to the actual coverage.
 
+(originally published [here](https://medium.com/@AikoPath/code-coverage-the-metric-that-makes-your-tests-worse-c1dddcc0831) on Dec 1, 2018)
