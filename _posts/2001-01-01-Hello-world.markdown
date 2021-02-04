@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   01-01-01 00:00:00 +0800
-tags: hello_world meta aiko.dev
+tags: Hello_world Meta aiko.dev
 ---
 
 Hi,
