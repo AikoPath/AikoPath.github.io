@@ -24,7 +24,6 @@ export class ComponentUnderTestComponent{
     this.input = this.input.toUpperCase();
   }
 }
-
 ```
 
 To verify that `processInput()` correctly upcases our input, we can simply assign a test value to the input variable and assert that, after calling the method, the displayed input is in ALL CAPS.
