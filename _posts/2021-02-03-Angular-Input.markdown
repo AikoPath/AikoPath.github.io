@@ -2,7 +2,7 @@
 layout: post
 title:  "Testing Angular Components With @Input()"
 permalink: /angular_test_input_decorator/
-tags: Angular Test
+tags: Angular Test JavaScript TypeScript
 ---
 
 When developing an Angular (read Angular 5 or Angular 6, or whatever the current version is when you read this) component that takes an input, you might decide to unit test the whole component. At least I hope you do!
