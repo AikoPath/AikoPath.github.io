@@ -1,16 +1,17 @@
 ---
 title: About
 icon: fas fa-info
-order: 4
+order: 5
 ---
 
 
+Hi, 👋
+
 I am Aiko.
 
-Software engineer, Consultant, Keynote speaker.
+Software engineer, Consultant, and Keynote speaker.
 
-Like many others before I now have my own website, or “Homepage” as we used to say in the 2000s.
+This website is a collection of my thoughts on various topics related to software development in form of blog posts and conference talks.
 
-So far there’s nothing really to see, but I’ll be publishing new blog posts and other things I am working on here. I’ll also be migrating old posts and talk recordings etc. to this site.
+Feel free to leave feedback in form of comments or reach out to me via <a href="javascript:location.href = 'mailto:' + ['contact','aiko.dev'].join('@')" aria-label="email" class="order-4">email</a>.
 
-Admittedly, this is also a tiny bit about me just finally building my own website. 🤓
