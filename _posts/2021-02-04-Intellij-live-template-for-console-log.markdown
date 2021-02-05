@@ -67,6 +67,3 @@ The order of the variables is important since it defines the order where the cur
 The mechanics used here can be applied to many other use cases like a custom logger or other general language features. Some other useful expressions that can be assigned to template variables are `complete()` and `completeSmart()`, which lets you use autocomplete within strings.
 
 I’d love to see your favourite use cases and examples in the comment section.
-
-
-(originally published [here](https://medium.com/better-programming/intellij-live-template-for-console-log-that-will-improve-your-daily-development-life-ef1320a8fe81))

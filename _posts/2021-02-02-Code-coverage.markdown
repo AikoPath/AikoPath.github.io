@@ -110,4 +110,3 @@ The important part is that the threshold is not static!
 
 I try to keep the threshold as close as possible to the actual coverage.
 
-(originally published [here](https://medium.com/@AikoPath/code-coverage-the-metric-that-makes-your-tests-worse-c1dddcc0831) on Dec 1, 2018)
