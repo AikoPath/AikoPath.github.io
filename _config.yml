@@ -87,7 +87,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://miro.medium.com/fit/c/773/788/1*sIRE-xXOfkydT6FoHxMlQA.png
+avatar: /assets/img/cambodia.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
