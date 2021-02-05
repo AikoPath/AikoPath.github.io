@@ -16,9 +16,9 @@ Teams sometimes calculate code coverage during the build and add a check that fa
 But what should this predetermined threshold be?
 Considering that not all code needs to be tested ([Kent Beck agrees on that](https://stackoverflow.com/questions/153234/how-deep-are-your-unit-tests/153565#153565)), having a threshold of 100% is not reasonable. Obvious examples for code that does not usually need to be tested are data transfer objects (DTOs) and automatically generated code.
 
-_**What a reasonable amount of code coverage is depends on your code and your application!**_
-
-<br>
+<blockquote style="font-size: 1.4rem; margin: revert">
+What a reasonable amount of code coverage is depends on your code and your application!
+</blockquote>
 
 ### How can setting a static code coverage threshold make my tests worse then?!
 Since you are reading this article about code coverage, I assume you know the importance of a reasonable test suite. Therefore you want to actually write all the necessary tests while developing.
