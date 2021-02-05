@@ -2,7 +2,7 @@
 layout: post
 title:  "IntelliJ Live Template for console.log"
 permalink: /intellij-live-template-for-console-log/
-tags: IntelliJ Console-Log JavaScript TypeScript
+tags: IntelliJ console.log() JavaScript TypeScript
 ---
 
 ### A handy shortcut for one of our most common tasks
