@@ -11,7 +11,7 @@ For example, we have a component, `ComponentUnderTest`, in which we want to disp
 
 So, let’s say the `ComponentUnderTest` binds and displays input.
 
-```
+{% highlight javascript %}
 @Component({
   selector: 'component-under-test',
   template: '<div>{{ input }}</div>'
@@ -24,7 +24,7 @@ export class ComponentUnderTestComponent{
     this.input = this.input.toUpperCase();
   }
 }
-```
+{% endhighlight %}
 
 To verify that `processInput()` correctly upcases our input, we can simply assign a test value to the input variable and assert that, after calling the method, the displayed input is in ALL CAPS.
 
@@ -33,11 +33,11 @@ Easy peasy! Right?
 But by now, we need to manually call `processInput()` and until we call it, our input is still displayed in lousy lowercase.
 Luckily, with Angular’s `OnInit` lifecycle hook, we can trigger our `processInput()` even before displaying anything. So let’s implement it and call `processInput()` in the corresponding method.
 
-```
+{% highlight javascript %}
 ngOnInit(){
     this.processInput();
 }
-```
+{% endhighlight %}
 
 Let’s run the tests!
 
@@ -49,15 +49,15 @@ Ah, of course, by the time `toUpperCase()` is called on the input in our `ngOnIn
 
 When we actually embed our component in the production code, we would have set the value of input by binding the `input` in the component’s tag.
 
-```
+{% highlight javascript %}
 <component-under-test input=“some input”></component-under-test>
-```
+{% endhighlight %}
 
 So let’s embed the `ComponentUnderTest` in a `TestHostComponent`. By actually having a host or parent component, we are able to pass in exactly the input we want for our test.
 
 In our test, we can simply define this `TestHostComponent`, include it in the testing module configuration, and instantiate it in our `beforeEach` method.
 
-```
+{% highlight javascript %}
 describe('ComponentUnderTestComponent', () => {
   let testHostComponent: TestHostComponent;
   let testHostFixture: ComponentFixture<TestHostComponent>;
@@ -86,7 +86,7 @@ describe('ComponentUnderTestComponent', () => {
   class TestHostComponent {
   }
 });
-```
+{% endhighlight %}
 
 
 What results are green tests and the input is upcased at the beginning.
@@ -95,7 +95,7 @@ However, can we really be sure that the input gets upcased and that our componen
 
 What we could do to achieve this is define another `TestHostComponent` which binds another input but we can do better than that!
 
-```
+{% highlight javascript %}
 it('should show TEST INPUT', () => {
     testHostComponent.setInput('test input');
     testHostFixture.detectChanges();
@@ -118,7 +118,7 @@ class TestHostComponent {
         this.input = newInput;
     }
 }
-```
+{% endhighlight %}
 
 
 `setInput()` sets the input in our host component. Assigning the input in our test before we let Angular detect the changes allows both our tests to pass..
@@ -127,7 +127,7 @@ Now, imagine we have to bind not only one but multiple inputs to our component. 
 
 Luckily, the answer is no!
 
-```
+{% highlight javascript %}
 it('should show DIFFERENT TEST INPUT', () => {
     testHostComponent.componentUnderTestComponent.input = 'different test input';
     testHostFixture.detectChanges();
@@ -141,7 +141,7 @@ class TestHostComponent {
     @ViewChild(ComponentUnderTestComponent)
     public componentUnderTestComponent: ComponentUnderTestComponent;
 }
-```
+{% endhighlight %}
 
 
 Instead of having a setter at all, we can also get a reference to our component from within the host component and pass it into our test. There we have full control over our component and can modify any field we want.
