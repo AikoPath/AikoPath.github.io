@@ -2,7 +2,7 @@
 layout: post
 title:  "Code Coverage - The metric that can make your tests worse"
 permalink: /code_coverage/
-tags: Code-Coverage Test
+tags: Code-Coverage Testing
 ---
 
 There are a lot of issues with code coverage: Eloquently summed up by Stackoverflow.com user [Mark Simpson](https://stackoverflow.com/questions/695811/pitfalls-of-code-coverage/695888#695888):
