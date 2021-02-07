@@ -63,3 +63,5 @@ So we finally agreed on something that made sense to us in our situation and wen
 * When talking about it with people outside of your team be aware of different meanings and clarify first before it results in misunderstandings.
 
 * Regardless of the terminology that you agree upon, smoke tests usually offer fast feedback to your development process and codebase.
+
+(This article has previously been published on [ThoughtWorks.com](https://www.thoughtworks.com/de/insights/blog/origin-smoke-testing-and-confusion-it-can-cause))
