@@ -156,5 +156,4 @@ Instead of having a setter at all, we can also get a reference to our component 
 
 Complete source code can be found on [GitHub](https://github.com/AikoPath/ComponentInputTest).
 
-
-(originally published [here](https://medium.com/better-programming/testing-angular-components-with-input-3bd6c07cfaf6))
+(This article has been featured in the book [Angular for Enterprise-Ready Web Applications](https://books.google.com.sg/books?id=9YLoDwAAQBAJ&pg=PA642&lpg=PA642&dq=aiko+klostermann&source=bl&ots=fCh5YzESYT&sig=ACfU3U2q1ehyaOUNPRa_FtkhzAHgCMNgqQ&hl=en&sa=X&ved=2ahUKEwjz3qT1msXqAhXEWisKHRC4AOs4ChDoATADegQIChAB#v=onepage&q=aiko%20klostermann&f=false) by Doguhan Uluca)
