@@ -5,6 +5,9 @@ permalink: /code_coverage/
 tags: Code-Coverage Testing
 ---
 
+![Some random pic,because some people say readers like looking at pics...](/assets/img/code-coverage/random-pic.jpeg "Some random pic,because some people say readers like looking at pics...")
+
+
 There are a lot of issues with code coverage: Eloquently summed up by Stackoverflow.com user [Mark Simpson](https://stackoverflow.com/questions/695811/pitfalls-of-code-coverage/695888#695888):
 
 > Code coverage tells you what you definitely haven’t tested, not what you have.
