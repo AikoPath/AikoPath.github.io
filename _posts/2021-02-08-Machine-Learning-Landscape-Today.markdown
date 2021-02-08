@@ -2,10 +2,8 @@
 layout: post
 title:  "[Talk] Machine Learning Landscape Today (2019)"
 permalink: /machine-learning-landscape-today/
-tags:  ML Machine-Learning
+tags:  ML Machine-Learning Talk
 ---
-
-
 
 Abstract:
 >When you have a data centric problem to solve and you look for a technology to support you with this: The machine intelligence landscape can be overwhelming. I analysed the landscape using a data driven approach and condensed the outcome into a consumable from. Additionally I came to the conclusion that there is a set of questions you have to ask yourself to make the best possible choice for your situation. This talk will cover these questions and present the analysis results on the basis of these.
