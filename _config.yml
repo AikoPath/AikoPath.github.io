@@ -92,7 +92,7 @@ avatar: /assets/img/cambodia.png
 # boolean type, the global switch for ToC in posts.
 toc: true
 
-paginate: 5
+paginate: 10
 
 kramdown:
   syntax_highlighter: rouge
