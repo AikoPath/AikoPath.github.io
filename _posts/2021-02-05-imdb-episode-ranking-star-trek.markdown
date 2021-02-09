@@ -28,7 +28,7 @@ Now, even though I felt strongly about this, I know better than simply arguing b
 **Instead I turned to Science!**
 
 Data Science to be exact.
-(well... It's not really data science, I'm simply plotting some numbers and calculated some averages, please don't take this post too serious.)
+(well... It's not really data science, I'm simply plotting some numbers and calculating some averages, please don't take this post too serious.)
 
 After a short search I found IMDbPy, a python package to retrieve data from IMDb. I hacked in [a couple of lines of code](https://github.com/AikoPath/imdb_guest_actor_rating/blob/master/Star_trek_episode_comparison_by_cast.ipynb)¹ and ta-da!
 
@@ -47,7 +47,7 @@ There are a lot of other factors that influence this average episode rating. I a
 As usual:
 > **Correlation is not causation!**
 
-Nevertheless I ran the same code for some other non-permanent characters as well.
+Nevertheless, I ran the same code for some other non-permanent characters as well.
 
 For example Colm Meaney who plays **Chief O’Brien**.
 
@@ -65,11 +65,11 @@ As an example you can see the plot for **Dr. Crusher**(Gates McFadden) and **Dr.
 
 2. Unsurprisingly to most TNG fans (my partner excluded…🤷‍♂️), the average rating of episodes showing Dr. Pulaski is lower than the equivalent with Dr. Crusher.
 
-3. There are exactly two episodes without any of the doctors and the average rating of these two is higher than the average of either of the doctors alone. This can however mostly be attributed to the excellent rating of Episode S02E16 “Q Who”
+3. There are exactly two episodes without any of the doctors and the average rating of these two is higher than the average of either of the doctors alone. This can however mostly be attributed to the excellent rating of Episode S02E16 “Q Who”.
 
 [![McFadden & Muldaur](/assets/img/imdb-episode-ranking-star-trek/mcfadden_muldaur.png "McFadden & Muldaur")](/assets/img/imdb-episode-ranking-star-trek/mcfadden_muldaur.png)
 
-If you have ever watched The Next Generation you know that one of the most likeable characters of the series is **Q**, played by John de Lancie, he doesn’t appear often, but when he does you know you are in for a treat! Similar things can be said about the appearances of Whoopi Goldberg who played **Guinan**, the counseling bartender.
+Speaking of "Q", if you have ever watched The Next Generation you know that one of the most likeable characters of the series is in fact **Q**, played by John de Lancie, he doesn’t appear often, but when he does you know you are in for a treat! Similar things can be said about the appearances of Whoopi Goldberg who played **Guinan**, the counseling bartender.
 
 
 There are exactly two episodes where both of them show up and those are two outstanding episodes! The graph below shows each episode rating plotted as a bar, with a blue bar representing an episode with **Guinan**, a red bar is used for an episode with **Q**, and a green bar representing both appearing in that episode!
