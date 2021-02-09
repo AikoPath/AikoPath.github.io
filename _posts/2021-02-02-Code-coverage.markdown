@@ -2,7 +2,8 @@
 layout: post
 title:  "Code Coverage - The metric that can make your tests worse"
 permalink: /code_coverage/
-tags: Code-Coverage Testing
+tags: Code-Coverage Testing Software-Development-Process
+date: 01-12-2018
 ---
 
 ![Some random pic,because some people say readers like looking at pics...](/assets/img/code-coverage/random-pic.jpeg "Some random pic,because some people say readers like looking at pics...")

@@ -3,6 +3,7 @@ layout: post
 title:  "[Talk] Machine Learning Landscape Today (2019)"
 permalink: /machine-learning-landscape-today/
 tags:  ML Machine-Learning Talk
+date: 17-12-2018
 ---
 
 Abstract:

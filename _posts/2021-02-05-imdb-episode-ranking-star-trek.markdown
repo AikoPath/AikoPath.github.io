@@ -3,6 +3,7 @@ layout: post
 title:  "Analysing IMDB TV series data aka How Wesley Crusher affects Star Trek episode ratings"
 permalink: /imdb-episode-ranking-star-trek/
 tags: IMDB Python Star-Trek Data
+date: 10-02-2020
 ---
 
 

@@ -3,6 +3,7 @@ layout: post
 title:  "[Talk] Consumer Driven Software Development"
 permalink: /consumer-driven-software-development/
 tags:  Agile Software-Development-Process
+date: 25-06-2019
 ---
 
 Abstract:

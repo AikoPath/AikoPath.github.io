@@ -3,8 +3,8 @@ layout: post
 title:  "[Talk] Artificial Intelligence? - more like Artificial Stupidity!"
 permalink: /artificial-stupidity/
 tags:  ML Machine-Learning AI Artificial-Intelligence Talk
+date: 13-06-2020
 ---
-
 
 Abstract:
 >Nowadays “Artificial Intelligence” is everywhere! And rightly so, it does enable us to do really cool things, things we couldn’t even imagine doing just a decade ago. In fact, it sometimes just feels like magic. This ‘magic’ behind it is often powered by “Machine Learning”. But even “AI” has its limitations.

@@ -3,6 +3,7 @@ layout: post
 title:  "The origin of Smoke Testing and the confusion it can cause"
 permalink: /smoke-testing-origin/
 tags: Testing Smoke-Testing
+date: 05-08-2019
 ---
 
 You know what smoke testing is, right? Yes! Great, I also thought I knew, as did a colleague of mine. The problem: each of us had a different interpretation of the meaning.

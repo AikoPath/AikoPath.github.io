@@ -3,6 +3,7 @@ layout: post
 title:  "Implementations of Artificial Intelligence in 2019 featured in FinTech News and Data Quest India"
 permalink: /implementations-of-artificial-intelligence-in-2019/
 tags: AI Artificial-Intelligence
+date: 26-12-2018
 ---
 
 [FinTech News](https://www.fintechnews.org/implementations-of-artificial-intelligence-in-2019/)
