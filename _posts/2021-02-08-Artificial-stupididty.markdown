@@ -26,7 +26,7 @@ The talk was presented at the following conferences:
 - [NDC Sydney 2020](https://www.youtube.com/watch?v=rJC2VXftAWc)
 - [Remote Chaos Communication Congress](https://www.youtube.com/embed/cuAR8KKqf04)
 - [C# corner AMA (interview and presentation)](https://www.youtube.com/watch?v=jv7LoFVpxdo)
-- Java Day Istanbul 2020
+- [Java Day Istanbul 2020](https://www.youtube.com/watch?v=ic5DKcujdlk&list=PLf0ZGEleJ3Ma7Z4ax1GNA7z-WNdt6i7j0&index=8)
 - Light Up 2020 (Unicef fundraiser)
 - [Tech community day](https://www.youtube.com/watch?v=baDxQxPvkSg)
 - JAX 2020
