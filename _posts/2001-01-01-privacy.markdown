@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Privacy Policy"
+permalink: /privacy
+---
+
+## Google Analytics
+This website uses Google Analytics. This happens only if you approve third party cookies and scripts.
+
+I do this to better understand the readers of this blog so that I can create relevant content for you.
