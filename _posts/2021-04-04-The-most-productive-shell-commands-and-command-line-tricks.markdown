@@ -65,7 +65,7 @@ $ echo !:3-4
 
 
 ## !^ !$
-There are also shortcuts for the first(!^), and the last(!$) parameters of the previous command.
+There are also shortcuts for the first(`!^`), and the last(`!$`) parameters of the previous command.
 
 ```
 $ echo live long and prosper
@@ -78,6 +78,7 @@ $ echo !^ !$
 # Editing the current line
 
 This can be especially useful when you have just selected a command from the history which needs some slight change.
+
 You can move your cursor to the beginning of the line by pressing `ctrl + a` and to the end of it by pressing `ctrl + e` (remember: e for _e_nd and a for, erm ... the beginning of the alphabet(?))
 
 Additionally:
@@ -113,14 +114,18 @@ $ ^gti^git
 
 # Handling multiple files with one command
 You might have used commands like cp or mv before to handle files.
+
 One of my favorite shortcut is the {} parameter expansion.
+
 By using {} you instruct your shell to expand each value on the curly brackets.
 
 ```
 $ mv hello_world.{js,html} static
 ```
 This command moves both the hello_world.js file and the hello_world.html file without needing to type hello_world. twice.
-You can also use ranges…
+
+You can also use ranges...
+
 The following command moves 5 files (file1.png, file2.png, file3.png, file4.png, and file5.png) to the backup/ directory.
 
 ```
@@ -128,5 +133,6 @@ $ mv file{1..5}.png backup/
 ```
 
 ---
-As there are many more commands that will help you be productive I will be constantly updating this list when I come across new jewels so you might want to bookmark this article for future references.
-In the mean time share your favorite command in the comments.
+As there are many more commands that will help you be productive I will be constantly updating this list when I come across new jewels, so you might want to bookmark this article for future references.
+
+In the meantime share your favorite command in the comments.
