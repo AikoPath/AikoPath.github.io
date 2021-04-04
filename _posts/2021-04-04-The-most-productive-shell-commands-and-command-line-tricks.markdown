@@ -29,8 +29,8 @@ For a larger directory history check out [pushd and popd](https://medium.com/r/?
 
 
 # Shell History
-Probably the most used _shell trick_ I use is to press the up arrow (successively) to select the last commands of my shell history.
-Accompanied by ctrl + r (successively) to reverse search through my shell history by a keyword in LRU order.
+Probably the most used _shell trick_ I use is to press the `up arrow` (successively) to select the last commands of my shell history.
+Accompanied by `ctrl + r` (successively) to reverse search through my shell history by a keyword in LRU order.
 
 ## !!
 You can also include `!!` in your command, and it gets substituted with the previously executed command.
