@@ -102,7 +102,7 @@ VIM(or Nano or VI etc.) opens with your command you had typed so far already in 
 
 Instead of retrieving the last command and then modifying it in two separate steps you can also do it in one step.
 
-`^x^y` gives you the previous command with x replaced by y
+`^x^y` gives you the previous command with `x` replaced by `y`
 
 ```
 $ gti status
@@ -115,9 +115,9 @@ $ ^gti^git
 # Handling multiple files with one command
 You might have used commands like cp or mv before to handle files.
 
-One of my favorite shortcut is the {} parameter expansion.
+One of my favorite shortcut is the `{}` parameter expansion.
 
-By using {} you instruct your shell to expand each value on the curly brackets.
+By using `{}` you instruct your shell to expand each value on the curly brackets.
 
 ```
 $ mv hello_world.{js,html} static
@@ -126,7 +126,7 @@ This command moves both the hello_world.js file and the hello_world.html file wi
 
 You can also use ranges...
 
-The following command moves 5 files (file1.png, file2.png, file3.png, file4.png, and file5.png) to the backup/ directory.
+The following command moves 5 files (`file1.png, file2.png, file3.png, file4.png, and file5.png`) to the `backup/` directory.
 
 ```
 $ mv file{1..5}.png backup/
