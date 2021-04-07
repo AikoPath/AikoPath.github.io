@@ -25,6 +25,8 @@ $ cd -
 ~> /home
 ```
 
+__Bonus fact__: The dash argument also works with `git checkout`, so you can e.g. quickly switch between master and a working branch.
+
 For a larger directory history check out [pushd and popd](https://medium.com/r/?url=https%3A%2F%2Funix.stackexchange.com%2Fquestions%2F77077%2Fhow-do-i-use-pushd-and-popd-commands).
 
 
