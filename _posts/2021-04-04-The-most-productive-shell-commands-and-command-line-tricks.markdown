@@ -14,8 +14,8 @@ _Disclaimer: I use these commands on MacOS with Z Shell(Zsh) in Iterm2. As long 
 
 # cd -
 
-You probably know that you can use cd to change into a certain directory.
-But did you know you can use the dash (-) as an argument to go back to the previous directory?
+You probably know that you can use `cd` to change into a certain directory.
+But did you know you can use the dash (`-`) as an argument to go back to the previous directory?
 ```
 $ cd /home
 ~> home
