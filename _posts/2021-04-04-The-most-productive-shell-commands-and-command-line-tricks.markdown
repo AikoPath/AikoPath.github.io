@@ -38,7 +38,8 @@ Or type `history` directly to see the whole shell history in your terminal. You 
 
 You can even use a negative number as that index to select the `k`-th last command, like so:
 
-```$ echo second
+```
+$ echo second
 $ echo last
 $ !-2
 -> echo second
