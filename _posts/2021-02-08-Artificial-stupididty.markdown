@@ -39,5 +39,5 @@ The talk was presented at the following conferences:
 - Update conference 2020
 - [Stack 2020](https://www.youtube.com/watch?v=wjhLa36ASw8)
 - [API days Paris 2020](https://www.youtube.com/watch?v=f2gQAAiT-Xo)
-- FOSSASIA Summit 2021
+- [FOSSASIA Summit 2021](https://youtu.be/Y7klW1aoaH8?t=4389)
 - CodeFest Ru (upcoming, probably 2021)
