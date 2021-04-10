@@ -34,6 +34,17 @@ For a larger directory history check out [pushd and popd](https://medium.com/r/?
 Probably the most used _shell trick_ I use is to press the `up arrow` (successively) to select the last commands of my shell history.
 Accompanied by `ctrl + r` (successively) to reverse search through my shell history by a keyword in LRU order.
 
+Or type `history` directly to see the whole shell history in your terminal. You can then write `![number]` to select the command at position `number` in your history.
+
+You can even use a negative number as that index to select the `k`-th last command, like so:
+
+```$ echo second
+$ echo last
+$ !-2
+-> echo second
+```
+
+
 ## !!
 You can also include `!!` in your command, and it gets substituted with the previously executed command.
 
