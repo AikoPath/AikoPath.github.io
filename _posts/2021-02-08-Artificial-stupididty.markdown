@@ -37,7 +37,7 @@ The talk was presented at the following conferences:
 - [Clearwater Development Conference 2020](https://www.youtube.com/watch?v=3hI0z4eqbFY)
 - AI DevWorld 2020
 - Update conference 2020
-- Stack 2020
+- [Stack 2020](https://www.youtube.com/watch?v=wjhLa36ASw8)
 - [API days Paris 2020](https://www.youtube.com/watch?v=f2gQAAiT-Xo)
-- FOSSASIA Summit 2021 (upcoming)
+- FOSSASIA Summit 2021
 - CodeFest Ru (upcoming, probably 2021)
