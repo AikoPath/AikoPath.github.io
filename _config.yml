@@ -9,11 +9,11 @@ title: Aiko Klostermann                          # the main title
 
 # it will display as the sub-title
 tagline: Software engineer, <br>
-  Consultant,<br>
-  Keynote speaker
+  Keynote speaker <br>
+  All opinions are my own.
 
 description: >-                        # used by seo meta and the atom feed
-  Aiko Klostermann: Software engineer, Consultant, Keynote speaker,
+  Aiko Klostermann: Software engineer, Keynote speaker,
   Technology Blog, Software Engineering
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
