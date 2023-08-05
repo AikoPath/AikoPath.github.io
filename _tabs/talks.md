@@ -45,6 +45,10 @@ layout: page
 
 {% for post in posts %}
 
+{{post.categories | inspect }}
+{{post.categories | jsonify }}
+
+
   {% assign match = false %}
   {% for category in post.categories %}
     {% if page.categories contains "Talk" %}
@@ -52,10 +56,6 @@ layout: page
     {% endif %}
   {% endfor %}
   {% if match %}
-
-
-  {{post.categories | inspect }}
-  {{post.categories | jsonify }}
 
   <div class="post-preview">
     <h1>
