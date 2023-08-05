@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info
-order: 5
+order: 4
 ---
 <img style="float: right;" width="300" src="https://aiko.dev/assets/img/everest-base-camp-crop.jpg">
 Hi, 👋
