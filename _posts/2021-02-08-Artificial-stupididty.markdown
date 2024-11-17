@@ -17,7 +17,9 @@ Abstract:
 
 You can watch the talk by clicking any of links or the video below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cuAR8KKqf04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% include embed/youtube.html id='cuAR8KKqf04' %}
+
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/wPdZIlNCc1IJUj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 

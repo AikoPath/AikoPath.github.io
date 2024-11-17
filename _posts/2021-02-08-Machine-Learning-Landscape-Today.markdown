@@ -20,7 +20,9 @@ You can watch the talk by clicking the links above or the video below.
 
 You can also read the article that summarizes the talk [here](https://aiko.dev/ml-showdown-in-search-of-the-best-tool/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yAJ3BiOvO5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% include embed/youtube.html id='yAJ3BiOvO5E' %}
+
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/LV19MbMra7uKpl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 

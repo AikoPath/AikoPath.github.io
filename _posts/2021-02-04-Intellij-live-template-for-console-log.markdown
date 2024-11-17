@@ -22,7 +22,8 @@ According to [Larry Wall](http://threevirtues.com/), the original author of the 
 
 Here’s a video showing the setup and usage of the live template. You can pause and skip parts of the video or just follow the instructions below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcWxT25DuCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include embed/youtube.html id='UcWxT25DuCA' %}
+
 
 ---
 
