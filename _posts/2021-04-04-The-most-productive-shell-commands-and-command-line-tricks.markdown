@@ -12,7 +12,7 @@ This a list of my favorite and most used shell commands and tricks that I learne
 
 _Disclaimer: I use these commands on MacOS with Z Shell(Zsh) in Iterm2. As long as you are running a bash-like shell on a Unix & -like OS these commands should work for you as well. If you have a more exotic set up, you probably know your way around the shell to make these work yourself. If you run Powershell on Windows: Good Luck!_
 
-# cd -
+## cd -
 
 You probably know that you can use `cd` to change into a certain directory.
 But did you know you can use the dash (`-`) as an argument to go back to the previous directory?
@@ -30,7 +30,7 @@ __Bonus fact__: The dash argument also works with `git checkout`, so you can e.g
 For a larger directory history check out [pushd and popd](https://medium.com/r/?url=https%3A%2F%2Funix.stackexchange.com%2Fquestions%2F77077%2Fhow-do-i-use-pushd-and-popd-commands).
 
 
-# Shell History
+## Shell History
 Probably the most used _shell trick_ I use is to press the `up arrow` (successively) to select the last commands of my shell history.
 Accompanied by `ctrl + r` (successively) to reverse search through my shell history by a keyword in LRU order.
 
@@ -46,7 +46,7 @@ $ !-2
 ```
 
 
-## !!
+### !!
 You can also include `!!` in your command, and it gets substituted with the previously executed command.
 
 ```
@@ -57,7 +57,7 @@ $ sudo !!
 ```
 
 
-## !:[index]
+### !:[index]
 
 Or you can select just parts of the last command by including `!:[index]` in your command and the word at the index `[index]` in the previous command gets inserted.
 
@@ -78,7 +78,7 @@ $ echo !:3-4
 ```
 
 
-## !^ !$
+### !^ !$
 There are also shortcuts for the first(`!^`), and the last(`!$`) parameters of the previous command.
 
 ```
@@ -89,7 +89,7 @@ $ echo !^ !$
 ```
 
 
-# Editing the current line
+## Editing the current line
 
 This can be especially useful when you have just selected a command from the history which needs some slight change.
 
@@ -103,7 +103,7 @@ Additionally:
 * `ctrl + u` cuts everything to the left of the cursor
 * `ctrl + y` pastes back what you have just cut
 
-## ctrl + x + e
+### ctrl + x + e
 If you realize you actually need to make a bigger edit or write a longer command you can also switch to your editor and take current line with you.
 
 ```
@@ -112,7 +112,7 @@ BOOOM!
 VIM(or Nano or VI etc.) opens with your command you had typed so far already in the buffer
 ```
 
-## Paste modified command from history
+### Paste modified command from history
 
 Instead of retrieving the last command and then modifying it in two separate steps you can also do it in one step.
 
@@ -126,7 +126,7 @@ $ ^gti^git
 ```
 
 
-# Handling multiple files with one command
+## Handling multiple files with one command
 You might have used commands like cp or mv before to handle files.
 
 One of my favorite shortcut is the `{}` parameter expansion.
