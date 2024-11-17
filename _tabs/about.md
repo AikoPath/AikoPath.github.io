@@ -3,7 +3,10 @@ title: About
 icon: fas fa-info
 order: 4
 ---
-<img style="float: right;" width="300" src="https://aiko.dev/assets/img/everest-base-camp-crop.jpg">
+<div style="float: right; margin-left: 20px; width: 300px;">
+    <img src="/assets/img/everest-base-camp-crop.jpg">
+</div>
+
 Hi, 👋
 
 I am Aiko.
