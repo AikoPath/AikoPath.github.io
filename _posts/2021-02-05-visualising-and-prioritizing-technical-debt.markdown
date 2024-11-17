@@ -4,12 +4,10 @@ title:  "Visualising and Prioritizing Technical Debt"
 permalink: /visualising-and-prioritizing-technical-debt/
 tags: Technical-Debt Prioritizing Project-Management Software-Development-Process
 date: 05-02-2018
+image: /assets/img/visualising-and-prioritizing-technical-debt/tech_debt_business_value.jpeg
 ---
 
 Whether we know it or not, we probably have technical debt in our codebase! And the longer we keep it, the more problems it creates. So let’s get rid of it. But where do we start?
-
-[![Tech Debt and Business Value](/assets/img/visualising-and-prioritizing-technical-debt/tech_debt_business_value.jpeg "Tech Debt and Business Value")](/assets/img/visualising-and-prioritizing-technical-debt/tech_debt_business_value.jpeg)
-
 
 ## So, what is technical debt again?
 Let’s have a look what Martin Fowler has to say about it:

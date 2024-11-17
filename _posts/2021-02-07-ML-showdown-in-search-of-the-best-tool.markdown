@@ -4,6 +4,7 @@ title:  "An ML showdown in search of the best tool (2019)"
 permalink: /ml-showdown-in-search-of-the-best-tool/
 tags: AI Artificial-Intelligence ML Machine-Learning
 date: 10-03-2019
+image: /assets/img/ml-showdown/dl-tech-showdown.png
 ---
 
 Ever [burgeoning digital data](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#6e6be51160ba) combined with [impressive research](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/) has lead to a rising interest in Machine Learning or ML, which has further powered a vibrant ecosystem of technologies, frameworks, and libraries in the space. So, today, when technologists are trying to solve a problem leveraging ML, the sheer volume of possible approaches can leave them overwhelmed. This is exactly why I decided to lift the dense fog from around the current ML landscape by delving into this tech and its popular subset, deep learning.
