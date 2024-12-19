@@ -7,7 +7,7 @@ date: 17-11-2024
 image: /assets/img/10x_engineer/10x_engineer_talk_screenshot.png
 ---
 
-Finally, after years of contractually required abstienence from public speaking my new talk is out.
+Finally, after years of contractually required abstinence from public speaking, my new talk is out.
 
 Abstract:
 > This talk discusses how a good developer experience (design system, scaffolding tools, tech standards, ...), combined with the right organisational structures and operating model, a lean team composition with a focus on autonomy, and an organisation that measures individual impact can lead to high performing teams with exceptional productivity.
