@@ -15,7 +15,13 @@ We’ll explore the principles of prompt engineering—how to frame questions an
 
 <!-- {% include embed/youtube.html id='QVN1BajwIvw' %} -->
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/xi1Gm5sDlaLBb1?hostedIn=slideshare&page=upload" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<div style="position: relative; width: 100%; padding-bottom: 59.3%; height: 0; overflow: hidden;">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRU08DcQQrZyeKK0ugh0UOwAAVd2_UzzTictEs1fU3HCxWW0E2sehIPjQNlgPf2-dMMs6zle5PQG2Sc/pubembed?start=true&loop=true&delayms=5000" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<br>
 
 The talk was presented at:
 - Tech Week Singapore 2025
+- FOSS Asia Summit 2026
+- CityJS Conf 2026
