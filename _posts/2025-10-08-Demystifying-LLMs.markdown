@@ -25,3 +25,5 @@ The talk was presented at:
 - Tech Week Singapore 2025
 - FOSS Asia Summit 2026
 - CityJS Conf 2026
+- Data & AI Architecture Singapore 2026
+- apidays Singapore 2026
